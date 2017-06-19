@@ -1,3 +1,3 @@
-FROM thalhalla:dockarmaiii
+FROM thalhalla/dockarmaiii:latest
 
 COPY assets /assets
